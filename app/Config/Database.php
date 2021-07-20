@@ -33,9 +33,9 @@ class Database extends Config
 	public $default = [
 		'DSN'      => '',
 		'hostname' => 'localhost',
-		'username' => 'root',
-		'password' => 'spasi',
-		'database' => 'db_antrianv2',
+		'username' => 'edited',
+		'password' => 'edited',
+		'database' => 'edited',
 		'DBDriver' => 'MySQLi',
 		'DBPrefix' => '',
 		'pConnect' => false,
