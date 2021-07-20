@@ -17,11 +17,11 @@ https://hombrecloth.com
 3. Tampilan ketika mengambil antrian.     
    ![gambar1](assets/04.png) 
 
-3. Tampilan ketika mengambil antrian.     
-   ![gambar1](assets/04.png)
+4. Tampilan antrian.     
+   ![gambar1](assets/07.png)
 
-4. Tampilan Untuk Panggil Loket.
+5. Tampilan Untuk Panggil Loket.
    ![gambar1](assets/05.png)
 
-5. CRUD
+6. CRUD
     ![gambar1](assets/06.png)
